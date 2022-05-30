@@ -1,2 +1,2 @@
 # 《One-World-One-Dream》
-> **Let the world be filled with love！让世界充满爱！**
+**Let the world be filled with love！让世界充满爱！**
