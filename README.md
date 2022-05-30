@@ -5,10 +5,10 @@
 
 **Preface**:I'm Yo-Star, and I'm going to document the entrance to the ACG realm here – here briefly recommending my collection to you. I aim to make it possible for more people to be able to enjoy it. I would be honored to be able to help you! Strangers, I wish you a happy life!
 
-|       目标       | **让更多的人得到更多的快乐。** |
-| :--------------: | :----------------------------- |
-|     **内容**     | **分享ACG领域资源，链接你我**  |
-| **最后更新时间** | **2022.5.31.**                 |
+|       目标        | **让更多的人得到更多的快乐。** |
+| :---------------: | :----------------------------- |
+|     **内容**      | **分享ACG领域资源，链接你我**  |
+| **最后更新时间**🕔 | **2022.5.31.**                 |
 
 
 
