@@ -13,20 +13,18 @@
 
 [danbooru]: https://danbooru.donmai.us/
 [yande]: https://yande.re/post
-[tbib]: https://tbib.org/index.php?page=post&amp;s=list&amp;pid=0
+[tbib]: https://tbib.org/index.php?page=post&amp;amp;s=list&amp;amp;pid=0
 
-ASMR
+- ASMR
 
 [Kikoeru]: https://www.asmr.one/works
 
-# 漫画-comic
-
-###### **生肉**
+**生肉**
 
 [comic-valkyrie]: https://www.comic-valkyrie.com/
 [shonenmagazine]: https://pocket.shonenmagazine.com/
 
-R18
+18+
 
 [禁漫天堂]: https://jmcomic.bet/
 [nhentai]: https://nhentai.net/
@@ -34,8 +32,6 @@ R18
 
 
 # 游戏
-
-
 
 [2DFan]: https://galge.fun/	"老牌galgame游戏测评网站"
 
