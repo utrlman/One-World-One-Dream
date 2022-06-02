@@ -11,25 +11,7 @@
 
 - 动漫图片
 
-[danbooru]: https://danbooru.donmai.us/
-[yande]: https://yande.re/post
-[tbib]: https://tbib.org/index.php?page=post&amp;s=list&amp;pid=0
-
-ASMR
-
-[Kikoeru]: https://www.asmr.one/works
-
-# 漫画-comic
-
-###### **生肉**
-
-[comic-valkyrie]: https://www.comic-valkyrie.com/
-[shonenmagazine]: https://pocket.shonenmagazine.com/
-
-R18
-
-[禁漫天堂]: https://jmcomic.bet/
-[nhentai]: https://nhentai.net/
+[]: https://danbooru.donmai.us/
 
 
 
