@@ -4,7 +4,7 @@
 
 - 观看动画
 
-[Omofun]: https://omofun.tv/Omofun
+[Omofun]: https://omofun.tv/Omofun	"omofun链接"
 
 
 
